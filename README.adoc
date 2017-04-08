@@ -8,7 +8,7 @@ image:images/garduino.png[Schema]
 
 == Ukázka ovládání
 
-video::images/garduinoOvladani.mp4[width=640, align=center]
+video::XeAI03Mpdd8[youtube]
 
 == Základní struktura
 
