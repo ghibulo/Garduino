@@ -10,6 +10,8 @@ image:images/garduino.png[Schema]
 
 video::XeAI03Mpdd8[youtube]
 
+https://www.youtube.com/watch?v=XeAI03Mpdd8[Youtube video, *ukázka ovládání*]
+
 == Základní struktura
 
 Program se skládá ze 3 částí:
